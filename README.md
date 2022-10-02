@@ -1,4 +1,5 @@
-### Hacktoberfest_2021
+### Hacktoberfest_2K22
+### Hacktoberfest4.0
 This Repository Aims To Help Beginners with their first successful pull request and Know How to do open source contributions Also For Intermediate and Advance level contributors as well.:partying_face:
 
 
@@ -21,7 +22,7 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ### Rules :fire:
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
 <br>
  
  <p align="center"><h3>🛑🛑 ELIGIBILITY CRITERIA 🛑🛑</h3></p>
